@@ -1,0 +1,23 @@
+
+.content-table
+{
+    border-collapse: collapse;
+    margin: 25px 0;
+    overflow: hidden;
+    font-size: 20px;
+}
+.content-table th{
+    background-color:rgb(12, 92, 102);
+    width:300px;
+    color: white;
+}
+.content-table th,
+.content-table td{
+    padding: 12px 15px;
+}
+.content-table tbody tr:nth-of-type(even){
+background-color: rgb(231, 220, 220);
+}
+.content-table tbody tr{
+    border-bottom: 1px solid:white;
+}

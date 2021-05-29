@@ -1,0 +1,48 @@
+input[type=submit] {
+    
+    width: 10%;
+    background-color: #bd6410;
+    
+    color: rgb(248, 242, 242);
+    padding: 5px 5px;
+    
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #850d0d
+ 
+  }
+  h1{
+      color: dodgerblue;
+  }
+  h3{
+    color: rgb(30, 255, 68);
+  }
+  button{
+    background-color:rgb(72, 168, 69);
+    width:10%;
+    height: 7%;
+  }
+  a:link {
+   color: rgb(41, 4, 4);
+  }
+  
+  /* visited link */
+  a:visited {
+     
+  }
+  
+  /* mouse over link */
+  a:hover {
+  color:yellow; 
+  }
+  form{
+      color: rgb(126, 12, 12);
+  }
+  body{
+    background-color: rgba(201, 199, 247, 0.884);
+    padding: 20px;
+  }

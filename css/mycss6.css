@@ -1,0 +1,52 @@
+
+h1{
+  color: rgb(235, 247, 247);
+  background-color: 
+  hsl(229, 68%, 42%);
+  }
+  h2{
+    color: hsl(229, 68%, 42%);
+    background-color: 
+    rgb(218, 191, 191);
+    }
+  
+  button
+  {
+    background-color: rgb(16, 56, 117);
+    
+  }
+  * {
+    box-sizing: border-box;
+    background-color: rgba(160, 160, 187, 0.308);
+    
+  
+  text-align: center;
+  padding: 0px;
+  }
+  h5{
+    background-color: rgb(218, 191, 191);
+    
+  }
+
+.navbar a
+  {
+    text-decoration: none;
+    
+  }
+  a:link {
+    color: rgb(91, 228, 238);
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:rgb(121, 25, 81);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(208, 216, 219);
+  }
+  td{
+      background-color: rgb(16, 36, 100);
+  }

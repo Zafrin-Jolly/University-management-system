@@ -1,0 +1,43 @@
+button
+{
+    background-color:rgb(152, 50, 196);
+    width:10%;
+    height: 7%;
+}
+a:link {
+    color: yellow;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:rgb(229, 222, 238);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(221, 105, 105);
+  }
+  td{
+      background-color: rgb(68, 68, 207);
+  }
+  h1
+  {
+      background-color: dodgerblue;
+      color: white;
+  }
+  
+
+  body{
+    background-color: rgba(201, 199, 247, 0.884);
+    padding: 20px;
+  }
+  .navbar a
+  {
+    text-decoration: none;
+
+  }
+  h2{
+    color: rgb(75, 13, 2);
+    background-color: cadetblue;
+  }

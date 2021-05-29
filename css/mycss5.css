@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    background-color:rgba(135, 145, 145, 0.5);;
+ 
+  text-align: center;
+  
+}
+button
+{
+    background-color: rgba(157, 224, 245, 0.5);
+   
+}
+  
+  
+  h1
+  {
+    color: white;
+    background-color: dodgerblue;
+  }

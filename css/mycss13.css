@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    
+  }
+  body {
+
+    margin:100;
+padding: 10px;
+  background-color: rgba(135, 145, 145, 0.5);
+
+  }
+  h4{
+    color: rgb(11, 81, 138);
+   
+  }

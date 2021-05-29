@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  
+    body {
+
+        margin:100;
+  
+      background-color: rgba(145, 144, 165, 0.884);
+      }
+  
+  
+  
+  .login {
+    padding: 20px;
+    text-align: left;
+    background: white;
+  }
+  
+  .login h6{
+    font-size: 30px;
+    color: rgb(19, 16, 231);
+  }
+  input[type=submit] {
+    width: 10%;
+    background-color: #230ee0;
+    color: white;
+    padding: 5px 5px;
+    
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #0c1ec4;
+  }
+  
