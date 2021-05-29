@@ -1,0 +1,67 @@
+[
+    {
+        "name": "abuhasnat",
+        "email": "19-39734-1@student.aiub.edu",
+        "gender": "male",
+        "birthday": "2021-03-30",
+        "phonenumber": "01920962520",
+        "otp": "619484",
+        "presentAddress": "DHAKA",
+        "permanentAddress": "GULSHAN",
+        "ssc": "4.75",
+        "hsc": "4.75",
+        "cgpa": "3.75"
+    },
+    {
+        "name": "hasnatjelani",
+        "email": "abc@gmail.com",
+        "gender": "male",
+        "birthday": "2021-04-21",
+        "phonenumber": "0155674573",
+        "otp": "202046",
+        "presentAddress": "CUMILLA",
+        "permanentAddress": "CHOTTROGRAM",
+        "ssc": "4.44",
+        "hsc": "4.90",
+        "cgpa": "3.95"
+    },
+    {
+        "name": "abuhasnat",
+        "email": "chahad3340301@gmail.com",
+        "gender": "male",
+        "birthday": "2021-03-31",
+        "phonenumber": "01920962520",
+        "otp": "619484",
+        "presentAddress": "dhaka",
+        "permanentAddress": "narayanganj",
+        "ssc": "3.33",
+        "hsc": "3.20",
+        "cgpa": "3.95"
+    },
+    {
+        "name": "hasnatjelani",
+        "email": "19-39734-1@student.aiub.edu",
+        "gender": "male",
+        "birthday": "2021-04-23",
+        "phonenumber": "0155674573",
+        "otp": "619484",
+        "presentAddress": "Badda",
+        "permanentAddress": "Gulisthan",
+        "ssc": "3.90",
+        "hsc": "3.89",
+        "cgpa": "3.91"
+    },
+    {
+        "name": "abuhasnat",
+        "email": "chahad3340301@gmail.com",
+        "gender": "male",
+        "birthday": "2021-04-21",
+        "phonenumber": "01920962520",
+        "otp": "619484",
+        "presentAddress": "DHaka ",
+        "permanentAddress": "Narayanganj",
+        "ssc": "3.90",
+        "hsc": "4.75",
+        "cgpa": "3.90"
+    }
+]
